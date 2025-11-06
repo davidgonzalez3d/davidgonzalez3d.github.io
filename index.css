@@ -64,7 +64,7 @@ button:hover{
     padding: 25px 30px;
     font-weight: bold;
     color: rgb(58, 94, 136);
-    font-size: 1.3vh;
+    font-size: 1.5vh;
   }
   
   nav {
@@ -343,5 +343,6 @@ footer .container{
         #caracteristicas{
         background-position-x: calc(100vw - 1080px);
     }
+
 
 }
