@@ -42,7 +42,7 @@
     padding: 25px 30px;
     font-weight: bold;
     color: rgb(58, 94, 136);
-    font-size: 1.3vh;
+    font-size: 1.5vh;
   }
   
   nav {
@@ -322,4 +322,5 @@
       grid-template-columns: 1fr;
     }
   }
+
   
